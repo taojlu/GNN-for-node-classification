@@ -21,8 +21,8 @@ NodeNet: A Graph Regularised Neural Network for Node Classification | 2020 | [Co
 Graph U-Nets | 2019 | [ICLR](http://proceedings.mlr.press/v97/gao19a/gao19a.pdf) | Hongyang Gao | [Pytorch](https://github.com/HongyangGao/Graph-U-Nets) |  
 DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification | 2019 | [KDD](https://arxiv.org/pdf/1906.02319v1.pdf) | Jun Wu | [code](https://github.com/jwu4sml/DEMO-Net) |  
 Node Classification By Graph Convolutional Networ | 2018 | [blog](https://www.experoinc.com/post/node-classification-by-graph-convolutional-network) | Graham Ganssle | -- |
-
-
+Diffusion-Convolutional Neural Networks | 2016 | [NIPS](https://arxiv.org/abs/1511.02136) | James Atwood | --- |   
+ 
 #### Graph neural network library
 Library |Contents|
 :-------|:-----:
